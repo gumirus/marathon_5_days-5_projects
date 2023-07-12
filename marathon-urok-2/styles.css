@@ -6,7 +6,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #e5e5e5;
+  background-color: #f1e8e8;
   display: flex;
   padding-top: 5rem;
   justify-content: center;
@@ -61,4 +61,16 @@ body {
 
 .done {
   background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.hold {
+ border: 2px solid rgba(50, 158, 38, 0.47)
+}
+
+.hide {
+  display: none;
+}
+
+.hovered {
+  box-shadow: 0 0 10px rgba(38, 158, 130, 0.79);
 }
