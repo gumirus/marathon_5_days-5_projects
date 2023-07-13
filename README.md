@@ -1,5 +1,5 @@
 - # [First day](https://gumirus.github.io/First-day/)
 - # [Second day](https://gumirus.github.io/Second-day/)
-- [the third day]()
+- # [the third day](https://gumirus.github.io/third_day/)
 - [fourth day]()
 - [fifth day]()
